@@ -1,0 +1,3 @@
+.zsh/history
+.zsh/cache
+*.zwc*
